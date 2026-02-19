@@ -70,9 +70,9 @@
 ## 📌 Featured Work
 
 - **second-brain-application** — TypeScript productivity system  
-- **cli-project** — Custom Node.js CLI tooling  
-- **hacSec-website** — Event website frontend  
-- **Code-Optimisation-Competition** — Logic-driven UI challenge  
+- **Linux-admin-lab** — From archiving and compression to data transer between SSH server and client
+- **hacSec-website** — Hack Secure Company website frontend prototype
+- **Fading-ink** — Logic-driven UI challenge and dynamic state management
 
 <!-- 👉 Pinned repositories show my **best, production-ready work**
 
