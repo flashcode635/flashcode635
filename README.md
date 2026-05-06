@@ -31,9 +31,10 @@
 ## 🚀 About Me
 
 - Full-stack developer focused on **scalable web applications**
-- Strong foundation in **JavaScript, TypeScript, and system design**
-- Experience building **UI, APIs, real-time apps, and CLIs**
-- Care about **clean code, performance, and maintainability**
+- Strong foundation in **JavaScript**, **TypeScript**, and **system design**
+- Experience building **UI**, **APIs**, **real-time apps**, and **CLIs**
+- Fast code delivery by integrating **AI** in workflow
+- Care about maintaining **secure and clean code, performance, and maintainability**
 
 ---
 
@@ -62,16 +63,17 @@
 
 ### ☁️ DevOps & Cloud
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/Render-ffffff?style=for-the-badge&logo=render&logoColor=000000)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-fff7B7?style=for-the-badge&logo=netlify)
 
 ---
 
 ## 📌 Featured Work
 
-- **second-brain-application** — TypeScript productivity system  
+- **Scrapie** — Python based scraper tool that lists all events in a specific city 
 - **Linux-admin-lab** — From archiving and compression to data transer between SSH server and client
-- **hacSec-website** — Hack Secure Company website frontend prototype
+- **Flow-State** — One solution for all your routine related issues.
 - **Fading-ink** — Logic-driven UI challenge and dynamic state management
 
 <!-- 👉 Pinned repositories show my **best, production-ready work**
