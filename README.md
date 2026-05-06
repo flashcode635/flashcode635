@@ -56,6 +56,12 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
+### 📦 Package Managers
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=ffffff)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=ffffff)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=ffffff)
+
 ### 🗄 Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-fffff2?style=for-the-badge&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
