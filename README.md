@@ -43,15 +43,12 @@
 ### 🧑‍💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-323030?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFDE57)
 
-### 🎨 Frontend & UI
+### 🧩 Frontend & Backend Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-fffff2?style=for-the-badge&logo=tailwindcss)
-
-### 🛠 Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-000003?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
