@@ -52,6 +52,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-000003?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Drizzle](https://img.shields.io/badge/Drizzle-111827?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 ### 📦 Package Managers
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=ffffff)
