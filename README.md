@@ -51,8 +51,8 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-fffff2?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-000003?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle-212129?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Drizzle](https://img.shields.io/badge/Drizzle-111827?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 ### 📦 Package Managers
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=ffffff)
@@ -64,7 +64,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-fffff2?style=for-the-badge&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-323030?style=for-the-badge&logo=mysql)
-
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=ffffff)
