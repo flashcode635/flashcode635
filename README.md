@@ -76,6 +76,7 @@
 
 ## 📌 Featured Work
 
+- **Nebula DB** — NoSQL Document Database engine built entirely from scratch in pure Python.
 - **Scrapie** — Python based scraper tool that lists all events in a specific city 
 - **Linux-admin-lab** — From archiving and compression to data transer between SSH server and client
 - **Flow-State** — One solution for all your routine related issues.
